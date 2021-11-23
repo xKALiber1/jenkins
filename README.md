@@ -1,2 +1,4 @@
 # jenkins
-1st SKillstorm Ubuntu stuffs
+#1st SKillstorm Ubuntu stuffs
+#credstored
+
