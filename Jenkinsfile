@@ -18,7 +18,7 @@ pipeline {
 
         stage('') {
           steps {
-            echo 'Secondary test'
+            echo 'Secondary test worked and I am able to write this message and my fake pipleline is ready to deploy'
           }
         }
 
