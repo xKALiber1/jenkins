@@ -27,7 +27,7 @@ pipeline {
 
     stage('Deploy') {
       steps {
-        echo 'fake deployment of fake tests'
+        echo 'fake deployment of fake tests except i dont know what Im doing'
       }
     }
 
